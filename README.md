@@ -4,8 +4,8 @@ Connect an RGBs (Red, Green, Blue, CSync) signal over SCART to an Extron Crosspo
 The SCARTpoint adapter allows a direct SCART connection to the Extron CrossPoint matrix switch. There are two geometries, an "upper" (3E-300009) and a "lower" (3E-300010), they need to be installed in an alternating pattern, two of the same geometry cannot be installed adjacently. Both geometries are configurable as inputs (to Extron) or outputs (from Extron) using solder jumpers and the proper components.
 
 This is for use only with Extron Crosspoint matrix switches with the following BNC center-to-center dimensions:
-- Horizontal: 	17.2mm
-- Vertical:		16.5mm
+- Horizontal: 	17.2 mm
+- Vertical:		16.5 mm
 - This will not fit older units with 20.3 mm vertical distance.
 
 Fully assembled and QC tested SCARTpoint adapters can be [purchased here](https://kytor.com/store/product/scartpoint/).
@@ -21,7 +21,7 @@ Fully assembled and QC tested SCARTpoint adapters can be [purchased here](https:
 - **Photos**
 
 ## Features
-- SCART-Lock mounting posts in accordance with KTL 0158 specification.
+- SCART-Lock mounting posts in accordance with [KTL 0158](https://github.com/KytorIndustries/scart-mounting/blob/main/KTL_0158.pdf) specification.
 - Female SCART connection.
 - Female TRS 3.5mm stereo audio connection.
 - Male RCA Red, Green, Blue, Sync connections.
