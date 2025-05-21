@@ -12,6 +12,8 @@ Fully assembled and QC tested SCARTpoint adapters can be [purchased here](https:
 
 ![SCARTpoint](photos/SCARTpoint_Lower_Output.jpg)
 
+![SCARTpoint](photos/SCARTpoint.jpg)
+
 ## Files Included
 - **PCB Design Files** (KiCAD, Gerber)
 - **Bill of Materials** (XLSX)
